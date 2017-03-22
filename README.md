@@ -7,8 +7,8 @@ Python and Pandas.
 
 ## What the folders are for:
 
-Each folder is a guided project from Dataquest. It includes a Python file and
-a dataset.
+Each folder is a guided project from Dataquest. It includes a Python file
+and/or Jupyter Notebook file, and a dataset.
 
 - US_births
 
